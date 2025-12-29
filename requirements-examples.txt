@@ -1,0 +1,6 @@
+-r requirements.txt
+datasets>=2.0.0
+tokenizers>=0.13.0
+matplotlib>=3.5.0
+tqdm>=4.64.0
+torchvision>=0.15.0
